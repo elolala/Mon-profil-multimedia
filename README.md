@@ -3,6 +3,7 @@
 ### Titre: Analyse d’un profil multimédia
 ### Date: 28 novembre 2025
 ### Auteur: Élodie Lajeunesse
+### Description: Illustrer mon profil à l'intérieur du domaine multimédia à partir d'un Powerpoint ainsi qu'un Moodboard, une Carte mentale et un Diagramme de flux
 
 ## Images
 ### Moodboard
