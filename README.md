@@ -5,8 +5,8 @@
 ### Auteur: Élodie Lajeunesse
 ### Description: Illustrer mon profil à l'intérieur du domaine multimédia à partir d'un Powerpoint ainsi qu'un Moodboard, une Carte mentale et un Diagramme de flux
 
-##Contenu des diapositives
-###Pourquoi TIM?
+## Contenu des diapositives
+### Pourquoi TIM?
 - Il combine créativité ET technologie, ce qui me correspond
 
 
