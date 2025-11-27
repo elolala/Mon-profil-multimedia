@@ -1,6 +1,8 @@
 # Mon-profil-multimedia
 ## Introduction
 ### Titre: Analyse d’un profil multimédia
+### Date: 28 novembre 2025
+### Auteur: Élodie Lajeunesse
 
 ## Images
 ### Moodboard
