@@ -8,6 +8,10 @@
 ## Contenu des diapositives
 ### Pourquoi TIM?
 - Il combine créativité ET technologie, ce qui me correspond
+- J’aime l’idée d’apprendre à utiliser différents logiciels
+- Me prépare à travailler dans un domaine stimulant et créatif où je peux exprimer pleinement ma passion
+
+
 
 
 ## Images
