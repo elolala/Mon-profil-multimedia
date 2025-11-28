@@ -22,3 +22,4 @@
 <img width="3221" height="1281" alt="carte_mentale" src="https://github.com/user-attachments/assets/92f00879-9df2-434e-91e7-d3cd11ad52b5" />
 
 ### Diagramme de flux
+<img width="2073" height="1152" alt="diagramme_flux" src="https://github.com/user-attachments/assets/92b0ccad-5f8c-4b92-83f0-d22f820d3eda" />
